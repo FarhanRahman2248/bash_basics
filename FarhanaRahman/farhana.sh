@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, my name is Farhan Rahman"
+echo "Hello, my name is Farhana Rahman"
